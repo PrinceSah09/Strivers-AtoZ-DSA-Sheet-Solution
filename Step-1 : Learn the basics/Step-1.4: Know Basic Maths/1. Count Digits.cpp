@@ -33,3 +33,6 @@ public:
 };
 
 
+// For counting Digits the optimize way is: return log10(N)
+
+
