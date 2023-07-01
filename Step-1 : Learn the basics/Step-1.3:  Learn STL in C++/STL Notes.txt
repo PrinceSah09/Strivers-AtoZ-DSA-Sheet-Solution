@@ -1,8 +1,0 @@
-STL has 4 components:
-
-1. Algorithms
-2. Containers
-3. Functors
-4. Iterators
-
-(1) Algorithms:
