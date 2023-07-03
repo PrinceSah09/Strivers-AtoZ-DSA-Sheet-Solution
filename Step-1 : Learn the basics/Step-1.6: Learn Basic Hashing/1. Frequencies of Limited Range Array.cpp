@@ -28,7 +28,7 @@ We have:
 */
 
 //Time Complexity: O(N)
-//Space Complexity: O(1)
+//Space Complexity: O(N)
 class Solution{
     public:
     void frequencyCount(vector<int>& arr,int N, int P)
